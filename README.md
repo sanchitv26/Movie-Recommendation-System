@@ -2,8 +2,6 @@
 
 # MovieMagic Recommender
 
-![App Screenshot](screenshot.png)
-
 A stylish and powerful movie recommendation system with a modern GUI interface that suggests movies based on content similarity, user preferences, or a hybrid approach.
 
 ##  Features
